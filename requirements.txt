@@ -1,0 +1,8 @@
+torch
+torchvision
+matplotlib
+numpy
+imageio
+pillow
+opencv-python
+dlib
