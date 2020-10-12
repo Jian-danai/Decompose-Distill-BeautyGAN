@@ -1,5 +1,6 @@
 # Introduction
 Official implementation of VCIP 2020 paper: "[Compressing Facial Makeup Transfer Networks by Collaborative Distillation and Kernel Decomposition](https://arxiv.org/abs/2009.07604)". In this project, we compressed facial makeup transfer networks (BeautyGAN) with collaborative distillation and kernel decomposition.
+
 See our framework below.
 <center><img src="framework.png" width="800" hspace="10"></center>
 If there are bugs, pls open an issue.
@@ -44,10 +45,15 @@ and uncompress it.
 We would add more details about the training and testing process if needed...If you have any questions, pls open an issue.
 
 # Results
+
 <center><img src="voting results.png" width="800" hspace="10"></center>
-Voting Results
+
+<center>Voting Results</center>
+
 <center><img src="distillvsdecompose.png" width="800" hspace="10"></center>
-Decompose only vs Decompose+Distill
+
+<center>Decompose only vs Decompose+Distill</center>
+
 # Acknowledgment
 
 We refer to the following implementations: [Collaborative-Distillation](https://github.com/MingSun-Tse/Collaborative-Distillation), [BeautyGAN_pytorch](https://github.com/wtjiang98/BeautyGAN_pytorch).
