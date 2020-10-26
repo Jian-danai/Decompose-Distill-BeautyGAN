@@ -73,4 +73,4 @@ Please cite this in your publication if our work helps your research.
 }
 ```
 
-If you have any advice, you may access my [homepage](jian-danai.github.io) or directly contact me at yangbj@zju.edu.cn , thanks.
+If you have any advice, you may access my [homepage](https://jian-danai.github.io/) or directly contact me at yangbj@zju.edu.cn , thanks.
