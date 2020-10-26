@@ -56,7 +56,9 @@ We would add more details about the training and testing process if needed...If 
 
 # Acknowledgment
 
-We refer to the following implementations: [Collaborative-Distillation](https://github.com/MingSun-Tse/Collaborative-Distillation), [BeautyGAN_pytorch](https://github.com/wtjiang98/BeautyGAN_pytorch).
+This work was done in VipaiLab, you may find some useful code from the [lab](https://github.com/VipaiLab?tab=repositories).
+
+We refered to the following implementations: [Collaborative-Distillation](https://github.com/MingSun-Tse/Collaborative-Distillation), [BeautyGAN_pytorch](https://github.com/wtjiang98/BeautyGAN_pytorch). 
 
 # Reference
 
