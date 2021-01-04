@@ -68,8 +68,8 @@ Please cite this in your publication if our work helps your research.
 @inproceedings{yang2020compressing,
   title={Compressing Facial Makeup Transfer Networks by Collaborative Distillation and Kernel Decomposition},
   author={Yang, Bianjiang and Hui, Zi and Hu, Haoji and Hu, Xinyi and Yu, Lu},
-  booktitle={2020 IEEE Visual Communications and Image Processing (VCIP)},
-  pages={1--4},
+  booktitle={2020 IEEE International Conference on Visual Communications and Image Processing (VCIP)},
+  pages={46--49},
   year={2020},
   organization={IEEE}
 }
